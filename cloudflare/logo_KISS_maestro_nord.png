@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="208.78775"
+   height="242.24609"
+   viewBox="0 0 208.78775 242.24609"
+   sodipodi:docname="logo_KISS_maestro_nord.png"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="logo_KISS_maestro_nord.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="1.5775449"
+     inkscape:cx="106.49459"
+     inkscape:cy="119.48947"
+     inkscape:window-width="1256"
+     inkscape:window-height="670"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 78.406091 : 1"
+       inkscape:vp_y="0 : 999.99999 : 0"
+       inkscape:vp_z="327.67999 : 78.406091 : 1"
+       inkscape:persp3d-origin="163.83999 : 23.792762 : 1"
+       id="perspective1" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Logo"
+     style="display:inline"
+     transform="translate(-60.497609,-43.5835)">
+    <path
+       id="trapecio-1"
+       style="display:inline;fill:#2e3440;fill-opacity:1;stroke:none;stroke-width:0.759513"
+       d="m 88.324089,120.27154 v 88.2256 L 60.497609,224.5462 V 104.29523 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="trapecio-1" />
+    <path
+       id="trapecio-2"
+       style="display:inline;fill:#2e3440;fill-opacity:1;stroke:none;stroke-width:0.759513"
+       d="M 163.68185,75.034856 88.984094,118.59123 60.497609,102.27295 163.68185,43.679445 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="trapecio-2" />
+    <path
+       id="trapecio-3"
+       style="display:inline;fill:#2e3440;fill-opacity:1;stroke:none;stroke-width:0.759513"
+       d="M 240.34067,118.59123 165.32072,75.034856 V 43.5835 l 103.03659,58.68945 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="trapecio-3" />
+    <path
+       id="trapecio-4"
+       style="display:inline;fill:#2e3440;fill-opacity:1;stroke:none;stroke-width:0.759513"
+       d="m 241.45888,208.63249 v -88.36095 l 27.82648,-15.97631 v 120.38632 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="trapecio-4" />
+    <path
+       id="trapecio-5"
+       style="display:inline;fill:#2e3440;fill-opacity:1;stroke:none;stroke-width:0.759513"
+       d="m 165.32072,254.8248 75.01995,-44.40426 27.757,16.16894 -102.77695,59.24011 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="trapecio-5" />
+    <path
+       id="trapecio-6"
+       style="display:inline;fill:#2e3440;fill-opacity:1;stroke:none;stroke-width:0.759513;stroke-opacity:1"
+       d="m 88.951207,210.42054 74.730643,43.89544 v 31.51361 L 61.161947,226.58948 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="trapecio-6" />
+    <path
+       style="fill:#2e3440;fill-opacity:1;stroke:none"
+       d="m 165.54214,252.12634 73.80415,-43.60327 v -87.0376 l -73.80411,42.58016 z"
+       id="cuadrado_lateral"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="cuadrado_lateral" />
+    <path
+       style="fill:#2e3440;fill-opacity:1;stroke:none"
+       d="M 164.61202,162.55237 239.34629,119.4688 164.62948,76.316512 90.269003,119.4688 Z"
+       id="cuadrado_superior"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="cuadrado_superior" />
+    <path
+       style="fill:#2e3440;fill-opacity:1;stroke:none"
+       d="M 163.68185,252.12634 V 164.06563 L 90.269003,121.28194 v 87.24113 z"
+       id="cuadrado_frontal"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="cuadrado_frontal" />
+    <path
+       style="font-weight:600;font-size:94.0748px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Semi-Bold';baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;stroke-linecap:round;enable-background:accumulate;stop-color:#000000"
+       d="m 98.100916,181.173 v -3.90991 l 8.821724,-0.39159 c 0.39329,-0.003 0.76693,0.0214 1.1209,0.0718 0.35388,0.0513 0.61936,0.1026 0.79635,0.15304 -0.19665,-0.18981 -0.4818,-0.46939 -0.85535,-0.8379 -0.35397,-0.35739 -0.70794,-0.75325 -1.06191,-1.18759 l -8.821714,-10.57122 v -3.98601 l 12.951194,15.63709 v 4.32972 z m 17.079134,16.7067 v -3.60126 l 14.14769,8.15756 v 3.6004 z m 18.38934,6.04485 v -27.95422 l 3.18146,1.83654 v 11.71692 l 2.85655,1.64844 4.41608,-9.16646 3.44394,1.98873 -5.09238,10.45922 5.35743,17.63779 -3.591,-2.07081 -4.59306,-15.28398 -2.79756,-1.61338 v 12.63519 z"
+       id="texto"
+       inkscape:label="caracteres" />
+  </g>
+</svg>
